@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+cloud:
+  aws:
+    stack:
+      auto: false
+server:
+  servlet:
+    context-path: /backend-for-frontend
+service:
+  dns: http://ma-hashimotoysn-ecs-alb-743143457.ap-northeast-1.elb.amazonaws.com
+

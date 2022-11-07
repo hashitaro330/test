@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "service",
+      "type": "jp.hashitaro.sample.aws.ecs.backendforfrontend.app.web.ServiceProperties",
+      "sourceType": "jp.hashitaro.sample.aws.ecs.backendforfrontend.app.web.ServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "service.dns",
+      "type": "java.lang.String",
+      "sourceType": "jp.hashitaro.sample.aws.ecs.backendforfrontend.app.web.ServiceProperties"
+    }
+  ],
+  "hints": []
+}

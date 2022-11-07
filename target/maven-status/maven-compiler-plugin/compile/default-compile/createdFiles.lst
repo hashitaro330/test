@@ -1,0 +1,7 @@
+jp\hashitaro\sample\aws\ecs\backendforfrontend\config\WebApp.class
+META-INF\spring-configuration-metadata.json
+jp\hashitaro\sample\aws\ecs\backendforfrontend\config\MvcConfig.class
+jp\hashitaro\sample\aws\ecs\backendforfrontend\app\web\BackendForFrontendController.class
+jp\hashitaro\sample\aws\ecs\backendforfrontend\app\model\User$UserBuilder.class
+jp\hashitaro\sample\aws\ecs\backendforfrontend\app\model\User.class
+jp\hashitaro\sample\aws\ecs\backendforfrontend\app\web\ServiceProperties.class
